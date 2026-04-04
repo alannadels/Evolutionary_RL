@@ -1,7 +1,5 @@
 # Evolutionary Developmental Reward Schedules
 
-Code for **"On the Optimality of Biological Reward Development: An Evolutionary Deep RL Framework"** (ICDL 2026).
-
 This repository implements an evolutionary framework for discovering optimal developmental reward weight schedules in deep reinforcement learning. Rather than fixing reward weights throughout training, we parameterize three intrinsic motivation signals — agency, novelty, and reactivity — as time-varying piecewise-linear functions and use evolutionary optimization to discover schedules that maximize task performance.
 
 ---
