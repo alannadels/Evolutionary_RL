@@ -1,0 +1,45 @@
+# Experiment outputs
+results/
+out/
+
+# Paper and analysis
+paper_submission/
+papers/
+analysis/
+EXPERIMENT_LOG.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm / IDEs
+.idea/
+.vscode/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Trained models (large binary files)
+*.zip
+*.pkl
+*.pt
+*.pth
+
+# Numpy saved arrays (results-specific; best_params committed separately if needed)
+*.npy
