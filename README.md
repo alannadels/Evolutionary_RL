@@ -143,10 +143,5 @@ Four ablation conditions are compared against each evolved schedule:
 If you use this code, please cite:
 
 ```
-@inproceedings{nadels2026evolutionary,
-  title={On the Optimality of Biological Reward Development: An Evolutionary Deep RL Framework},
-  author={Nadels, Alan},
-  booktitle={International Conference on Development and Learning (ICDL)},
-  year={2026}
-}
+TBD
 ```
