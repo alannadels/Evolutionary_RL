@@ -143,5 +143,10 @@ Four ablation conditions are compared against each evolved schedule:
 If you use this code, please cite:
 
 ```
-TBD
+@inproceedings{nadelsticher2026evolutionary,
+  title={Evolutionary Discovery of Developmental Reward Schedules in Deep Reinforcement Learning},
+  author={Nadelsticher Ruvalcaba, Alan},
+  booktitle={International Conference on Development and Learning (ICDL)},
+  year={2026}
+}
 ```
